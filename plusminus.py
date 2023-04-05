@@ -30,5 +30,5 @@ def plusMinus(arr):
     print("{:.6f}".format(deci_zero))
     
 
-arr = [1,2,0,0,-6,-6]
+arr = [1,2,0,0,9,-1,-6,-6]
 plusMinus(arr)
