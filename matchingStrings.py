@@ -11,4 +11,4 @@ def matchingStrings(str,queries):
     return ar
 str = ['ab','ab','abc']
 queries = ['ab','abc','bc']
-matchingStrings(str,queries) 
+print(matchingStrings(str,queries)) 
